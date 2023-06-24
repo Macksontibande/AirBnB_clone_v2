@@ -1,2 +1,2 @@
 # AirBnB_clone_v2
-Partnering with Software Engineers
+0x02. AirBnB clone - MySQL
